@@ -3,10 +3,10 @@ Introduction to Data Science , What ?, Why?, How!, Tools, Skills, Application In
 The main Goal in Data Science is to find Gold (value) from data.
 Answering What, Why , How in data science.
 # Why?
-  ans-> Beacuse it solve three common Problems
-      -Making Better decisions
-      -Create Smart products
-      -Automating manual Processes.
+  ans-> Beacuse it solve three common Problems\n
+      -Making Better decisions\n
+      -Create Smart products\n
+      -Automating manual Processes.\n
     Making Better Decisions ->
     Lets say we want to launch a Product or Create a Product. Some people are against the proporsal and some of them supports it.
     How to make decision in this kind of situation.The Classic way is not efficient as it should be. But Data Science see this problem
